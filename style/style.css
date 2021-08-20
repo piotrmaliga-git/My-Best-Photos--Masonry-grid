@@ -27,3 +27,47 @@ ul{
 li{
     break-inside: avoid;
 }
+
+/* ------> Media queries <------ */
+@media screen and (min-width: 0px) /*Smartphones*/
+{
+    h1{
+        font-size: 40px;
+    }
+    ul{
+        column-count: 1;
+    }
+    body{
+        padding: 0 25px;
+    }
+}
+@media screen and (min-width: 500px) 
+{
+    h1{
+        font-size: 80px;
+    }
+    ul{
+        column-count: 3;
+    }
+    body{
+        padding: 0 50px;
+    }
+}
+@media screen and (min-width: 1000px) /*Tablets, Laptops*/
+{
+    h1{
+        font-size: 120px;
+    }
+    body{
+        padding: 0 100px;
+    }
+}
+@media screen and (min-width: 1800px) /*Big screens*/
+{
+    ul{
+        column-count: 4;
+    }
+    body{
+        padding: 0 500px;
+    }
+}
