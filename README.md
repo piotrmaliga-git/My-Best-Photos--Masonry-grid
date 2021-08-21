@@ -15,13 +15,11 @@ I Created a simple website based on a Masonry grid created from my photos. Proje
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots/screen1.png" alt="">
+<img src="https://raw.githubusercontent.com/piotrmaliga-git/
+My-Best-Photos-Masonry-grid.github.io/master/screenshots/screen1.png" alt="">
 
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots/screen2.png" alt="">
-
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots/screen3.png" alt="">
-
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots/screen4.png" alt="">
+<img src="https://raw.githubusercontent.com/piotrmaliga-git/
+My-Best-Photos-Masonry-grid.github.io/master/screenshots/screen2.png" alt="">
 
 # Developing
 If you want to propose any changes and help me to develop my project, please follow the changes below.
