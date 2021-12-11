@@ -47,4 +47,4 @@ git clone git@github.com:piotrmaliga-git/My-Best-Photos-Masonry-grid.git
 
 ## Link
 
-https://piotrmaliga-git.github.io/My-Best-Photos-Masonry-grid.github.io/
+https://piotrmaliga-git.github.io/My-Best-Photos-Masonry-grid/
