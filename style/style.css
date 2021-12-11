@@ -1,73 +1,71 @@
-body, ul, li{
-    background-image: url("../img/background/photography.png");
-    padding: 0;
-    margin: 0;
+body,
+ul,
+li {
+	background-image: url("../img/background/photography.png");
+	padding: 0;
+	margin: 0;
 }
-h1{
-    font-family: 'Style Script', cursive;
-    font-size: 100px;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    margin: 50px;
+h1 {
+	font-family: "Style Script", cursive;
+	font-size: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin: 50px;
 }
-img{
-    display: block;
-    width: 100%;
-    border-radius: 10px;
-    margin-bottom: var(--gap);
+img {
+	display: block;
+	width: 100%;
+	border-radius: 10px;
+	margin-bottom: var(--gap);
 }
-ul{
-    --gap: 20px;
-    list-style: none;
-    column-count: 3;
-    column-gap: var(--gap);
-    padding: var(--gap);
-}  
-li{
-    break-inside: avoid;
+ul {
+	--gap: 20px;
+	list-style: none;
+	column-count: 3;
+	column-gap: var(--gap);
+	padding: var(--gap);
+}
+li {
+	break-inside: avoid;
 }
 
 /* ------> Media queries <------ */
-@media screen and (min-width: 0px) /*Smartphones*/
-{
-    h1{
-        font-size: 40px;
-    }
-    ul{
-        column-count: 1;
-    }
-    body{
-        padding: 0 25px;
-    }
+@media screen and (min-width: 0px) /*Smartphones*/ {
+	h1 {
+		font-size: 40px;
+	}
+	ul {
+		column-count: 1;
+	}
+	body {
+		padding: 0 25px;
+	}
 }
-@media screen and (min-width: 500px) 
-{
-    h1{
-        font-size: 80px;
-    }
-    ul{
-        column-count: 3;
-    }
-    body{
-        padding: 0 50px;
-    }
+@media screen and (min-width: 500px) {
+	h1 {
+		font-size: 80px;
+	}
+	ul {
+		column-count: 3;
+	}
+	body {
+		padding: 0 50px;
+	}
 }
-@media screen and (min-width: 1000px) /*Tablets, Laptops*/
-{
-    h1{
-        font-size: 120px;
-    }
-    body{
-        padding: 0 100px;
-    }
+@media screen and (min-width: 1000px) /*Tablets, Laptops*/ {
+	h1 {
+		font-size: 120px;
+	}
+	body {
+		padding: 0 100px;
+	}
 }
-@media screen and (min-width: 1800px) /*Big screens*/
-{
-    ul{
-        column-count: 4;
-    }
-    body{
-        padding: 0 500px;
-    }
+@media screen and (min-width: 1800px) /*Big screens*/ {
+	ul {
+		column-count: 4;
+	}
+	body {
+		padding: 0 500px;
+	}
 }
