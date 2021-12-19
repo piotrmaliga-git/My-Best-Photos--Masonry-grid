@@ -1,6 +1,5 @@
 .section{
    &__gallery{
-      --gap: 20px;
       list-style: none;
       column-count: 2;
       column-gap: $gap;

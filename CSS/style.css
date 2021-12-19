@@ -26,7 +26,6 @@ body {
 }
 
 .section__gallery {
-  --gap: 20px;
   list-style: none;
   -webkit-column-count: 2;
           column-count: 2;
@@ -126,7 +125,7 @@ body {
     margin: 0 280px;
   }
   .footer__text {
-    font-size: 1.53rem;
+    font-size: 1.44rem;
   }
 }
 
@@ -138,7 +137,7 @@ body {
     margin: 0 600px;
   }
   .footer__text {
-    font-size: 1.62rem;
+    font-size: 1.35rem;
   }
 }
 /*# sourceMappingURL=style.css.map */
