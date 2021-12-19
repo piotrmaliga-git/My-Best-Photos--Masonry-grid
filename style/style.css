@@ -5,7 +5,7 @@ li {
 	padding: 0;
 	margin: 0;
 }
-h1 {
+.main__header {
 	font-family: "Style Script", cursive;
 	font-size: 100px;
 	margin-left: auto;
