@@ -1,0 +1,10 @@
+.header{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin: 50px;
+   &__title{ 
+      font-family: "Style Script", cursive;
+      font-size: $header-font-size;
+   }
+}

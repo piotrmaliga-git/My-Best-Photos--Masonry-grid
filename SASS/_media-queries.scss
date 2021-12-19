@@ -1,0 +1,97 @@
+//Smartphones
+@media screen and (min-width: 500px){
+   .header{
+      &__title{
+         font-size: 1.2*($header-font-size);
+      }
+   }
+   .section{
+      margin: 0 $standard-margin;
+      &__gallery{
+         column-count: 3;
+      }
+   }
+   .footer{
+      &__text{
+         font-size: 1.1*($footer-font-size);
+      }
+   }
+}
+@media screen and (min-width: 800px){
+   .header{
+         &__title{
+            font-size: 1.5*($header-font-size);
+         }
+   }
+   .section{
+      margin: 0 1.2*($standard-margin);
+   }
+   .footer{
+      &__text{
+         font-size: 1.4*($footer-font-size);
+      }
+   }
+}
+
+// Tablets, Laptops
+@media screen and (min-width: 1100px){
+	.header{
+      &__title{
+         font-size: 1.9*($header-font-size);
+      }
+   }
+   .section{
+      margin: 0 2.7*($standard-margin);
+      &__gallery{
+         column-count: 4;
+      }
+   }
+   .footer{
+      &__text{
+         font-size: 1.5*($footer-font-size);
+      }
+   }
+}
+
+// Big screens
+@media screen and (min-width: 1400px){
+   .header{
+      &__title{
+         font-size: 2.1*($header-font-size);
+      }
+   }
+   .section{
+      margin: 0 5*($standard-margin);
+      
+   }
+}
+@media screen and (min-width: 1700px){
+   .header{
+      &__title{
+         font-size: 2.4*($header-font-size);
+      }
+   }
+   .section{
+      margin: 0 7*($standard-margin);
+   }
+   .footer{
+      &__text{
+         font-size: 1.7*($footer-font-size);
+      }
+   }
+}
+@media screen and (min-width: 2000px){
+   .header{
+      &__title{
+         font-size: 2.7*($header-font-size);
+      }
+   }
+   .section{
+      margin: 0 15*($standard-margin);
+   }
+   .footer{
+      &__text{
+         font-size: 1.8*($footer-font-size);
+      }
+   }
+}

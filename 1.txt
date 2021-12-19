@@ -30,6 +30,10 @@ li {
 	break-inside: avoid;
 }
 
+
+
+
+
 /* ------> Media queries <------ */
 @media screen and (min-width: 0px) /*Smartphones*/ {
 	h1 {

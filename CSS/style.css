@@ -1,0 +1,144 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url("../img/background/photography.png");
+}
+
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 50px;
+}
+
+.header__title {
+  font-family: "Style Script", cursive;
+  font-size: 2.8rem;
+}
+
+.section__gallery {
+  --gap: 20px;
+  list-style: none;
+  -webkit-column-count: 2;
+          column-count: 2;
+  -webkit-column-gap: 20px;
+          column-gap: 20px;
+  padding: 20px;
+}
+
+.section__gallery-item {
+  -webkit-column-break-inside: avoid;
+          break-inside: avoid;
+}
+
+.section__gallery-image {
+  display: block;
+  width: 100%;
+  border-radius: 7px;
+  margin-bottom: 20px;
+}
+
+.footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-bottom: 50px;
+}
+
+.footer__text {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.9rem;
+}
+
+@media screen and (min-width: 500px) {
+  .header__title {
+    font-size: 3.36rem;
+  }
+  .section {
+    margin: 0 40px;
+  }
+  .section__gallery {
+    -webkit-column-count: 3;
+            column-count: 3;
+  }
+  .footer__text {
+    font-size: 0.99rem;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  .header__title {
+    font-size: 4.2rem;
+  }
+  .section {
+    margin: 0 48px;
+  }
+  .footer__text {
+    font-size: 1.26rem;
+  }
+}
+
+@media screen and (min-width: 1100px) {
+  .header__title {
+    font-size: 5.32rem;
+  }
+  .section {
+    margin: 0 108px;
+  }
+  .section__gallery {
+    -webkit-column-count: 4;
+            column-count: 4;
+  }
+  .footer__text {
+    font-size: 1.35rem;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .header__title {
+    font-size: 5.88rem;
+  }
+  .section {
+    margin: 0 200px;
+  }
+}
+
+@media screen and (min-width: 1700px) {
+  .header__title {
+    font-size: 6.72rem;
+  }
+  .section {
+    margin: 0 280px;
+  }
+  .footer__text {
+    font-size: 1.53rem;
+  }
+}
+
+@media screen and (min-width: 2000px) {
+  .header__title {
+    font-size: 7.56rem;
+  }
+  .section {
+    margin: 0 600px;
+  }
+  .footer__text {
+    font-size: 1.62rem;
+  }
+}
+/*# sourceMappingURL=style.css.map */
