@@ -1,6 +1,13 @@
-# My Best Photos (Masonry grid) (1.0.0 release)
+# My Best Photos (Masonry grid) (1.5.0 release)
 
-I have created a simple website based on a Masonry grid created from my photos. Project is based on HTML and CSS. I used media queries as well to display my project on any kind of hardware.
+I have created a simple website based on a Masonry grid with my photos.
+
+### Project design:
+
+- The HTML and CSS/SASS structure was based on the BEM methodology.
+- The layout of the website is hinged on the Masonry grid.
+- For faster page loading, photos are displayed using the Imagekit.io website.
+- The responsiveness of the website was implemented using the Mobile First Design method.
 
 ## Technologies
 
@@ -10,18 +17,20 @@ I have created a simple website based on a Masonry grid created from my photos. 
 
 <img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
 
+<img align="left" alt="Sass" width="26px" src="https://img.icons8.com/color/48/000000/sass.png" />
+
 <br/>
 <br/>
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/My-Best-Photos-Masonry-grid.github.io/master/screenshots/screen_1.png" alt="">
+<img src="https://raw.githubusercontent.com/piotrmaliga-git/My-Best-Photos-Masonry-grid.github.io/master/screenshots/s1.png" alt="">
 
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/My-Best-Photos-Masonry-grid.github.io/master/screenshots/screen_2.png" alt="">
+<img src="https://raw.githubusercontent.com/piotrmaliga-git/My-Best-Photos-Masonry-grid.github.io/master/screenshots/s2.png" alt="">
 
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/My-Best-Photos-Masonry-grid.github.io/master/screenshots/screen_3.png" alt="">
+<img src="https://raw.githubusercontent.com/piotrmaliga-git/My-Best-Photos-Masonry-grid.github.io/master/screenshots/s3.png" alt="">
 
-# Developing
+## Developing
 
 If you want to propose any changes and help me to develop my project, please follow the changes below.
 
