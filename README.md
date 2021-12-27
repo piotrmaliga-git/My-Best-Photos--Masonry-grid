@@ -24,11 +24,11 @@ I have created a simple website based on a Masonry grid with my photos.
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/My-Best-Photos-Masonry-grid.github.io/master/screenshots/s1.png" alt="">
+<img src="https://github.com/piotrmaliga-git/My-Best-Photos--Masonry-grid/blob/master/screenshots/s1.png" alt="">
 
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/My-Best-Photos-Masonry-grid.github.io/master/screenshots/s2.png" alt="">
+<img src="https://github.com/piotrmaliga-git/My-Best-Photos--Masonry-grid/blob/master/screenshots/s2.png" alt="">
 
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/My-Best-Photos-Masonry-grid.github.io/master/screenshots/s3.png" alt="">
+<img src="https://github.com/piotrmaliga-git/My-Best-Photos--Masonry-grid/blob/master/screenshots/s3.png" alt="">
 
 ## Developing
 
@@ -42,7 +42,7 @@ If you want to propose any changes and help me to develop my project, please fol
 git clone https://github.com/piotrmaliga-git/My-Best-Photos--Masonry-grid.git
 ```
 
-if you use a SSH key;
+if you use a SSH Key Authentication
 
 ```
 git clone git@github.com:piotrmaliga-git/My-Best-Photos--Masonry-grid.git
