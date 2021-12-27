@@ -39,13 +39,13 @@ If you want to propose any changes and help me to develop my project, please fol
 1.  **Clone my repository**
 
 ```
-git clone https://github.com/piotrmaliga-git/My-Best-Photos-Masonry-grid.git
+git clone https://github.com/piotrmaliga-git/My-Best-Photos--Masonry-grid.git
 ```
 
 if you use a SSH key;
 
 ```
-git clone git@github.com:piotrmaliga-git/My-Best-Photos-Masonry-grid.git
+git clone git@github.com:piotrmaliga-git/My-Best-Photos--Masonry-grid.git
 ```
 
 2. **Open your code editor like Visual Studio Code**
@@ -56,6 +56,6 @@ git clone git@github.com:piotrmaliga-git/My-Best-Photos-Masonry-grid.git
 
 ## Link
 
-https://piotrmaliga-git.github.io/My-Best-Photos-Masonry-grid/
+https://piotrmaliga-git.github.io/My-Best-Photos--Masonry-grid/
 
 https://codepen.io/piotrmaliga-git/pen/ExwoXpE
