@@ -1,10 +1,10 @@
-# My Best Photos (Masonry grid) (1.5.0 release)
+# My Best Photos (Masonry grid) (2.0.0 release)
 
 I have created a simple website based on a Masonry grid with my photos.
 
 ### Project design:
 
-- The HTML and CSS/SASS structure was based on the BEM methodology.
+- Styles CSS/Sass were built using BEM methodology.
 - The layout of the website is hinged on the Masonry grid.
 - For faster page loading, photos are displayed using the Imagekit.io website.
 - The responsiveness of the website was implemented using the Mobile First Design method.
@@ -57,3 +57,5 @@ git clone git@github.com:piotrmaliga-git/My-Best-Photos-Masonry-grid.git
 ## Link
 
 https://piotrmaliga-git.github.io/My-Best-Photos-Masonry-grid/
+
+https://codepen.io/piotrmaliga-git/pen/ExwoXpE

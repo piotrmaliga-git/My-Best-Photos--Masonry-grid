@@ -19,9 +19,9 @@
 }
 @media screen and (min-width: 800px){
    .header{
-         &__title{
-            font-size: 1.5*($header-font-size);
-         }
+      &__title{
+         font-size: 1.5*($header-font-size);
+      }
    }
    .section{
       margin: 0 1.2*($standard-margin);
