@@ -1,19 +1,19 @@
-.section{
-   &__gallery{
-      max-width: 1200px;
-      margin: 0 auto;
-      list-style: none;
-      column-count: 2;
-      column-gap: $gap;
-      padding: $gap;
-   }
-   &__gallery-item{
-      break-inside: avoid;
-   }
-   &__gallery-image{
-      display: block;
-      width: 100%;
-      border-radius: 7px;
-      margin-bottom: $gap;
-   }
+.section {
+  &__gallery {
+    max-width: 1200px;
+    margin: 0 auto;
+    list-style: none;
+    column-count: 2;
+    column-gap: $gap;
+    padding: $gap;
+  }
+  &__gallery-item {
+    break-inside: avoid;
+  }
+  &__gallery-image {
+    display: block;
+    width: 100%;
+    border-radius: 7px;
+    margin-bottom: $gap;
+  }
 }
