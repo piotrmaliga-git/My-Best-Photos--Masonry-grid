@@ -6,7 +6,6 @@
       }
    }
    .section{
-      margin: 0 $standard-margin;
       &__gallery{
          column-count: 3;
       }
@@ -23,9 +22,6 @@
          font-size: 1.5*($header-font-size);
       }
    }
-   .section{
-      margin: 0 1.2*($standard-margin);
-   }
    .footer{
       &__text{
          font-size: 1.4*($footer-font-size);
@@ -41,7 +37,6 @@
       }
    }
    .section{
-      margin: 0 2.7*($standard-margin);
       &__gallery{
          column-count: 4;
       }
@@ -60,19 +55,12 @@
          font-size: 2.1*($header-font-size);
       }
    }
-   .section{
-      margin: 0 5*($standard-margin);
-      
-   }
 }
 @media screen and (min-width: 1700px){
    .header{
       &__title{
          font-size: 2.4*($header-font-size);
       }
-   }
-   .section{
-      margin: 0 7*($standard-margin);
    }
    .footer{
       &__text{
@@ -85,9 +73,6 @@
       &__title{
          font-size: 2.7*($header-font-size);
       }
-   }
-   .section{
-      margin: 0 15*($standard-margin);
    }
    .footer{
       &__text{
